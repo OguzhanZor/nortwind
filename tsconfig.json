@@ -6,6 +6,7 @@
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
     "strict": true,
+    "strictNullChecks": false,////// cart-servise.ts 32 satırdaki kod için koyduk
     "strictPropertyInitialization":false,// degiskenadı:DEGİSKENTÜRÜ; (böyle yapmak için eklendi)
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
